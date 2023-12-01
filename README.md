@@ -4,9 +4,6 @@
 <br/>
 
 
-<a href="https://www.linkpicture.com/view.php?img=LPic64e2ffb822699802682"><img src="https://www.linkpicture.com/q/google-apps-script_logo-removebg-preview_1.png" type="image" width="280" height="220" align="center"></a>
-
-
 - 🏢 I'm a Developer and Business Development enthusiastic at my own work
 - 👨‍💻 As a Tech influncer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 I like to automate and discover Robotics Process Automation.
